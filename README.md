@@ -349,7 +349,7 @@ $answer->user()->increment('reputation_points', 10);
 
 ## 👨‍💻 المطور
 
-**عبد الرحمن اليوفريسي** (Abdulrrhman alyafrasi)
+**عبدالرحمن اليفرسي** (Abdulrrhman alyafrasi)
 
 - 🎓 جامعة إب - Ibb University
 - 📚 كلية الحاسبات - المستوى الرابع
@@ -365,4 +365,4 @@ $answer->user()->increment('reputation_points', 10);
 
 ---
 
-**🌟 شكراً لزيارتك المشروع 🌟**
+**🌟 شكراً لكم 🌟**
